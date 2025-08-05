@@ -1,6 +1,6 @@
 # Zig Shellcode Obfuscator
 
-A powerful Zig-based tool for obfuscating shellcode using XOR obfuscation with key rotation and position-based scrambling. This tool converts hex string shellcode into encrypted binary data and generates complete, ready-to-compile Zig programs for secure shellcode execution.
+A Zig-based tool for obfuscating shellcode using XOR obfuscation with key rotation and position-based scrambling. This tool converts hex string shellcode into encrypted binary data and generates complete, ready-to-compile Zig programs for secure shellcode execution.
 
 ## Features
 

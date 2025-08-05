@@ -136,26 +136,3 @@ Decrypted shellcode length: 276
 ```
 
 Use this to verify correct decryption before execution.
-
-## Development History
-
-This project evolved through several iterations:
-
-1. **XOR Obfuscator**: Initial XOR-based shellcode obfuscation
-2. **Safety Improvements**: Added memory safety and error handling
-3. **Execution Environment**: Added Windows API integration
-4. **Hex String Support**: Added hex string parsing capabilities
-5. **Final Version**: Cleaned up and optimized for production use
-
-## Contributing
-
-This is a complete, working tool. For modifications:
-
-1. Test thoroughly in isolated environments
-2. Maintain memory safety practices
-3. Preserve Windows API error handling
-4. Update documentation for any changes
-
-## License
-
-Educational and research use only. Use responsibly and in accordance with applicable laws and regulations.

@@ -134,5 +134,3 @@ The generated programs include debug output:
 ```
 Decrypted shellcode length: 276
 ```
-
-Use this to verify correct decryption before execution.
